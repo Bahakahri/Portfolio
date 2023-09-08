@@ -1,7 +1,7 @@
 <div style="background-color: #c7c7c7; padding: 20px;">
     <h1 align="center" style="color: #333;">Your Name's Portfolio</h1>
 </div>
-
+<div style="background-color: #000000; padding: 20px;">
 ## About Me
 
 I thrive on creativity and problem-solving. With a strong background in [mention your main technology or field], I'm dedicated to building innovative solutions and pursuing my passion. 🌟
@@ -38,7 +38,7 @@ Feel free to reach out to me:
 - :bird: **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ---
-
+</div>
 <div align="center" style="background-color: #c7c7c7; padding: 10px; color: #333;">
     &copy; 2023 Your Name
 </div>
