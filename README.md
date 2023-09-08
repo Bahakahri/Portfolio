@@ -2,12 +2,6 @@
     <h1 align="center" style="color: #333;">Your Name's Portfolio</h1>
 </div>
 
-# Your Name's Portfolio
-
-Welcome to my modern portfolio! I'm a passionate software developer with a focus on [mention your main technology or field]. 🚀
-
----
-
 ## About Me
 
 I thrive on creativity and problem-solving. With a strong background in [mention your main technology or field], I'm dedicated to building innovative solutions and pursuing my passion. 🌟
