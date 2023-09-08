@@ -1,4 +1,4 @@
-<div style="background-color: #c7c7c7; padding: 20px;">
+<div style="background-color: #000000; padding: 20px;">
     <h1 align="center" style="color: #333;">Your Name's Portfolio</h1>
 </div>
 <div style="background-color: #000000; padding: 20px;">
