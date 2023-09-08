@@ -1,8 +1,6 @@
-<div style="background-color: #000; padding: 20px;">
-    <h1 align="center" style="color: #fff;">Your Name's Portfolio</h1>
+<div style="background-color: #f5f5f5; padding: 20px;">
+    <h1 align="center" style="color: #333;">Your Name's Portfolio</h1>
 </div>
-
----
 
 ## About Me
 
@@ -41,6 +39,6 @@ Feel free to reach out to me:
 
 ---
 
-<div align="center" style="background-color: #000; padding: 10px; color: #fff;">
+<div align="center" style="background-color: #f5f5f5; padding: 10px; color: #333;">
     &copy; 2023 Your Name
 </div>
