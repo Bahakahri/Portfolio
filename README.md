@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="https://your-portfolio-image-url.com/your-image.jpg" alt="Your Name's Portfolio" width="300">
-</p>
+<div style="background-color: #000; padding: 20px;">
+    <h1 align="center" style="color: #fff;">Your Name's Portfolio</h1>
+</div>
 
 # Your Name's Portfolio
 
