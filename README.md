@@ -46,6 +46,6 @@ You can learn more about me on my [personal website](https://www.yourwebsite.com
 
 ---
 
-<div align="center">
+<div align="center" style="background-color: #000; padding: 10px; color: #fff;">
     &copy; 2023 Your Name
 </div>
