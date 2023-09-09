@@ -1,7 +1,6 @@
 <div style="background-color: #000000; padding: 20px;">
     <h1 align="center" style="color: #333;">Your Name's Portfolio</h1>
 </div>
-<div style="background-color: #000000;">
     
 ## About Me
 
@@ -39,7 +38,6 @@ Feel free to reach out to me:
 - :bird: **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ---
-</div>
 <div align="center" style="background-color: #c7c7c7; padding: 10px; color: #333;">
     &copy; 2023 Your Name
 </div>
