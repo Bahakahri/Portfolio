@@ -33,9 +33,9 @@ I thrive on creativity and problem-solving. With a strong background in [mention
 
 Feel free to reach out to me:
 
-- :e-mail: **Email:** [your@email.com](mailto:your@email.com)
-- :briefcase: **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- :bird: **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- ✉️ **Email:** [your@email.com](mailto:your@email.com)
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- 🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ---
 <div align="center" style="background-color: #c7c7c7; padding: 10px; color: #333;">
