@@ -1,5 +1,5 @@
 <div style="background-color: #333; padding: 20px;">
-    <h1 align="center" style="color: #fff;">Baha Kahri's Portfolio</h1>
+    <h1 align="center" style="color: #fff;">Baha Kahri</h1>
 </div>
 
 ## About Me
