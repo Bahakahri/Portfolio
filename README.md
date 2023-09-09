@@ -24,10 +24,14 @@ various age cohorts.
 - **GitHub Repository:** [Project Repository](https://github.com/Bahakahri/YLLinsp)
 ### Project 2: Another Project
 
-![Project Image](https://via.placeholder.com/300x200) <!-- Replace with your project image URL -->
-- **Description:**
-- **Technologies Used:** 
-- **GitHub Repository:** [Project Repository](https://github.com/yourusername/project2)
+<a href="https://ibb.co/c1wDLnk"><img src="https://i.ibb.co/vHhZYnV/aazz.png" alt="aazz" border="0"></a> <!-- Replace with your project image URL -->
+- **Description:**<br />• Conducted comprehensive data cleansing and preprocessing of certificates of disease database,
+ensuring data quality and consistency for accurate analysis.<br />
+• Developed Python scripts and utilized data manipulation libraries (e.g., Pandas) to streamline datacleaning processes.<br />
+• Generated a variety of data visualizations, including bar charts, histograms, and heatmaps, to represent
+key insights from the database.<br />
+- **Technologies Used:** Data Cleansing,Python,Data Preprocessing,Data Quality Assurance,Data Visualization,Pandas,Excel, Data Analysis,Statistical Insights
+- **GitHub Repository:** [Project Repository](https://github.com/Bahakahri/EMinsp)
 ### Project 3: Yet Another Project
 
 ![Project Image](https://via.placeholder.com/300x200) <!-- Replace with your project image URL -->
