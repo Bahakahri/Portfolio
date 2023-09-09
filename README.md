@@ -22,7 +22,7 @@ determinants of mortality rates and the principal contributors to potential year
 various age cohorts.
 - **Technologies Used:** Data Analysis,Python,Data Transformation,Metrics,Data Visualization,Excel,Statistical Analysis, Healthcare,Database Management.
 - **GitHub Repository:** [Project Repository](https://github.com/Bahakahri/YLLUNFPA)
-### Project 2: Another Project
+### Project 2: Data Cleansing, Python Automation, and Visual Insights: Enhancing Disease Database Analysis with Excess Mortality Excel Table
 
 <a href="https://ibb.co/c1wDLnk"><img src="https://i.ibb.co/vHhZYnV/aazz.png" alt="aazz" border="0"></a> <!-- Replace with your project image URL -->
 - **Description:**<br />• Conducted comprehensive data cleansing and preprocessing of certificates of disease database,
@@ -30,23 +30,26 @@ ensuring data quality and consistency for accurate analysis.<br />
 • Developed Python scripts and utilized data manipulation libraries (e.g., Pandas) to streamline datacleaning processes.<br />
 • Generated a variety of data visualizations, including bar charts, histograms, and heatmaps, to represent
 key insights from the database.<br />
-- **Technologies Used:** Data Cleansing,Python,Data Preprocessing,Data Quality Assurance,Data Visualization,Pandas,Excel, Data Analysis,Statistical Insights
+- **Technologies Used:** Data Cleansing,Python,Data Preprocessing,Data Quality Assurance,Data Visualization,Pandas,Excel, Data Analysis,Statistical Insights.
 - **GitHub Repository:** [Project Repository](https://github.com/Bahakahri/EMinsp)
-### Project 3: Yet Another Project
+  
+### Project 3: Innovating Data Management: Spearheading Excel-like Software Development with Python and TKinter
 
-![Project Image](https://via.placeholder.com/300x200) <!-- Replace with your project image URL -->
-- **Description:** Briefly describe the project.
-- **Technologies Used:** List the technologies or languages you used.
-- **GitHub Repository:** [Project Repository](https://github.com/yourusername/project2)
+<a href="https://ibb.co/yqXMttM"><img src="https://i.ibb.co/w4RbVVb/Untitled.png" alt="Untitled" border="0"></a> <!-- Replace with your project image URL -->
+- **Description:** <br />• Spearheaded the development of an Excel-like spreadsheet software at OACA Tunisia, pioneering innovation in data management and analysis.<br />
+•Leveraged Python, incorporating Object-Oriented Programming (OOP) principles to engineer a robust backend that ensured data accuracy and scalability.<br />
+•Orchestrated the creation of comprehensive code capable of generating data-driven plots tailored to the type of data, enhancing data visualization and insights.<br />
+- **Technologies Used:** Python,Tkinter,OOP,Data Visualization.
+- **GitHub Repository:** [Project Repository](https://github.com/Bahakahri/Graphsheet)
 ## Contact Me
 
 Feel free to reach out to me:
 
-- ✉️ **Email:** [your@email.com](mailto:your@email.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- ✉️ **Email:** [your@email.com](bahakahri@gmail.com)
+- 💼 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/baha-kahri)
 
 ---
 
 <div align="center" style="background-color: #333; padding: 10px; color: #fff;">
-    &copy; 2023 Your Name
+    &copy; 2023 Baha Kahri
 </div>
