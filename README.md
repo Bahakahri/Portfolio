@@ -10,7 +10,7 @@ Data scientist/data analyst passionate about transforming complex data into acti
 
 ### Project 1: Data-Driven Analysis of Mortality Rates and YLL with Python: Collaborative Medical Study
 
-![Project Image](https://via.placeholder.com/300x200) <!-- Replace with your project image URL -->
+![Project Image](https://ibb.co/f1C5Mcy) <!-- Replace with your project image URL -->
 - **Description:**<br /> • Collaborated with a medical professional to conduct an in-depth analysis of a comprehensive death
 certificate database, encompassing crucial data such as the date of decease, causes of death, and
 comprehensive individual information.<br />
