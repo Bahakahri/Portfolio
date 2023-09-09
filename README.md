@@ -45,8 +45,8 @@ key insights from the database.<br />
 
 Feel free to reach out to me:
 
-- ✉️ **Email:** [bahakahri@gmail.com](bahakahri@gmail.com)
-- 💼 **LinkedIn:** [Baha Kahri](www.linkedin.com/in/baha-kahri)
+- ✉️ **Email:** (bahakahri@gmail.com)
+- 💼 **LinkedIn:** (www.linkedin.com/in/baha-kahri)
 
 ---
 
