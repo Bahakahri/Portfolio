@@ -21,7 +21,7 @@ a visually compelling Excel file.<br />
 determinants of mortality rates and the principal contributors to potential years of life lost (PYLL) across
 various age cohorts.
 - **Technologies Used:** Data Analysis,Python,Data Transformation,Metrics,Data Visualization,Excel,Statistical Analysis, Healthcare,Database Management.
-- **GitHub Repository:** [Project Repository](https://github.com/Bahakahri/YLLinsp)
+- **GitHub Repository:** [Project Repository](https://github.com/Bahakahri/YLLUNFPA)
 ### Project 2: Another Project
 
 <a href="https://ibb.co/c1wDLnk"><img src="https://i.ibb.co/vHhZYnV/aazz.png" alt="aazz" border="0"></a> <!-- Replace with your project image URL -->
