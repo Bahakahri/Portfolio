@@ -31,7 +31,7 @@ ensuring data quality and consistency for accurate analysis.<br />
 • Generated a variety of data visualizations, including bar charts, histograms, and heatmaps, to represent
 key insights from the database.<br />
 - **Technologies Used:** Data Cleansing,Python,Data Preprocessing,Data Quality Assurance,Data Visualization,Pandas,Excel, Data Analysis,Statistical Insights.
-- **GitHub Repository:** [Project Repository](https://github.com/Bahakahri/EMinsp)
+- **GitHub Repository:** [Project Repository](https://github.com/Bahakahri/ExcessMortality)
   
 ### Project 3: Innovating Data Management: Spearheading Excel-like Software Development with Python and TKinter
 
